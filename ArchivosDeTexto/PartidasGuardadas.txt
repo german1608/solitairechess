@@ -1,0 +1,8 @@
+N_partida Fecha	Tiempo	Dificultad	Config
+1	14122016	2:30	Facil	Da4-Tc4-Cb2-a1	1967
+2	14122016	2:43	Facil	Ad4-c3-d2-Ta1-Cb1	1113
+3	14122016	2:59	Facil	Ab4-Db3-Ac3-Cd3-Ca1	106
+4	14122016	3:0	Facil	Cb4-Dd3-Cc2-a1	296
+6	14122016	3:0	Facil	Cc4-Aa3-b2-Tc1	33
+7	14122016	2:51	Facil	Ab4-Dc3-Ad2-Ta1	633
+8	1862017	0:40	Dificil	Ta4-Da3-Ad3-b2-Cb1-c1	1049

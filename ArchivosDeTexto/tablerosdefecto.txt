@@ -1,0 +1,31 @@
+configuracion	Dificultad
+Ta1-Ab4-Dc3-Ad2	Facil
+Aa3-b2-Tc1-Cc4	Facil
+a1-Da4-Cb2-Tc4	Facil
+a1-Cb4-Cc2-Dd3	Facil
+a2-Db3-Ab4-Rc2	Facil
+Ta1-Ta3-Ab2-Cc2-Cd3	Facil
+Ta1-Cb1-c3-d2-Ad4	Facil
+Ca1-Db3-Ab4-Ac3-Cd3	Facil
+a2-Cb3-Tb4-Tc2-Cd4	Facil
+Ca1-Cb2-Db3-Ac4-Td3	Facil
+Ca1-Tb1-Dc2-Ac4-d2-Ad3	Dificil
+Aa1-Ta3-Cc2-Tc4-d2-Dd4	Dificil
+Aa2-Aa4-b1-c1-Tc2-Cd2	Dificil
+Aa2-Ta3-Rb2-b3-Ac1-Tc4	Dificil
+Ca1-Ca3-Tb1-c2-Tc4-d3	Dificil
+a2-Ab3-Cb4-Cc2-c3-Ad3	Dificil
+a1-a2-Ab2-Ab3-Cc2-Cc4	Dificil
+Ca1-Tb1-Tb4-Ac2-c3-Cd1	Dificil
+Da3-Ta4-Cb1-b2-c1-Ad3	Dificil
+Ca2-Aa3-b1-Cc1-Dc3-Ad4	Dificil
+Aa1-Ta4-b3-c2-Cc3-Td2-Ad3	Muy Dificil
+a1-Ca2-Cb2-Ab3-Rc3-Ac4-d2	Muy Dificil
+Aa2-b1-Tb3-Ac1-c3-Cd2-Tc4	Muy Dificil
+a1-Aa2-Cb2-Tc1-Tc4-d3-Ad4	Muy Dificil
+a1-Ta2-b1-Cb2-Cc2-Td3-Ad4	Muy Dificil
+Aa1-a2-Tb2-Cb3-Cc4-d3-Ad4	Muy Dificil
+Aa1-a3-Cb4-Tc3-Cc4-Ad2-d3	Muy Dificil
+Ta1-Aa2-b2-c3-Ac4-Cd3-Tc4	Muy DIficil
+a1-Ta3-Ab2-Rc2-Tc4-Ad1-d3	Muy Dificil
+Ca2-b1-Tb3-Ac3-Ac4-d3-Cd4	Muy Dificil

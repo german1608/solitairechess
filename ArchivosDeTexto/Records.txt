@@ -1,0 +1,8 @@
+Nombre	N_victorias	Dificultad
+Alan	1	Facil
+as	1	Facil
+Ian	1	Facil
+basilio	1	Facil
+Ian	1	Dificil
+German	1	Muy Dificil
+German	4	Facil
